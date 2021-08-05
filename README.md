@@ -1,19 +1,19 @@
-# PengalamanBelajarku
+# Program belajar dasar pemrograman web
 Repositori ini berisi tentang pengalaman belajarku.<br>
 **14 Juni 2020.**  
-Belajar kelas memulai pemrogrman dengan **Java**.(progres 21%).
-* belajar mengenai java dan alasan penggunaannya.
-* belajar menggunakan tools untuk menjalankan programnya.
+Belajar kelas dasar pemrogrman Web **Front End Web Developer**.(progres 21%).
+* belajar mengenal cara kerja Browser.
+* memahami sejarah internet dan bahasa pemrograman.
 
 **15 Juni 2020.**    
-Belajar memulai pemrograman dengan **Java**.(progres  56%).
-* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
-* Belajar control flow dalam Java, seperti perulangan dan percabangan.
-* Belajar tipe data koleksi, seperti list, set, dan map.
+Belajar kelas dasar pemrogrman Web **Front End Web Developer**.(progres  56%).
+* Belajar dasar-dasar HTML.
+* Belajar memberikan styles pada tampilan website dengan menggunakan CSS.
+* Belajar mengenal JAVASCRIPT sebagai bahasa pemrograman untuk memberikan kesan interaktif pada website.
 
 **20 Juni 2020.**   
-Belajar memulai pemrograman dengan **Java**.(progres 100%).
-* Belajar OOP.
-* Mengenal tipe data dalam pemrograman dengan Java.
-* Membuat program menggunakan Bahasa pemrograman Java.
+Belajar kelas dasar pemrogrman Web **Front End Web Developer**.(progres 100%).
+* Belajar type data pada Javascript.
+* Mengenal sintak dan logika dasar perbandingan pada Javascript .
+* Membuat website yang interaktif menggunakan HTML, CSS, dan JAVASCRIPT.
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
