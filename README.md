@@ -17,3 +17,4 @@ Belajar kelas dasar pemrogrman Web **Front End Web Developer**.(progres 100%).
 * Mengenal sintak dan logika dasar perbandingan pada Javascript .
 * Membuat website yang interaktif menggunakan HTML, CSS, dan JAVASCRIPT.
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+* Mendapatkan Sertifikat kompetensi dengan predikat bintang 4.
