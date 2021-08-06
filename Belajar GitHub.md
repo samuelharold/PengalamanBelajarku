@@ -1,4 +1,2 @@
-# belajar GitHub
-* belajar membuat cabang baru.
-* mengenal istilah Pull requests Merge.
-* belajar mengatasi conflict.
+* memperbaiki conflict pada saat Merge.
+
