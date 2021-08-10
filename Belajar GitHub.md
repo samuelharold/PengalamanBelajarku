@@ -3,5 +3,5 @@
 * belajar teknik kolaborasi pada GitHub.
 * belajar menambahkan akun calon kolaborator.
 * belajar melakukan merge pada repository.
-
+* belajar pull requests.
 
